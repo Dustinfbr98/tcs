@@ -1,0 +1,13 @@
+C:\Users\dusti\Desktop\tata\Capacitacion\Capacitacion\bin\Debug\netcoreapp3.1\Capacitacion.exe
+C:\Users\dusti\Desktop\tata\Capacitacion\Capacitacion\bin\Debug\netcoreapp3.1\Capacitacion.deps.json
+C:\Users\dusti\Desktop\tata\Capacitacion\Capacitacion\bin\Debug\netcoreapp3.1\Capacitacion.runtimeconfig.json
+C:\Users\dusti\Desktop\tata\Capacitacion\Capacitacion\bin\Debug\netcoreapp3.1\Capacitacion.runtimeconfig.dev.json
+C:\Users\dusti\Desktop\tata\Capacitacion\Capacitacion\bin\Debug\netcoreapp3.1\Capacitacion.dll
+C:\Users\dusti\Desktop\tata\Capacitacion\Capacitacion\bin\Debug\netcoreapp3.1\Capacitacion.pdb
+C:\Users\dusti\Desktop\tata\Capacitacion\Capacitacion\obj\Debug\netcoreapp3.1\Capacitacion.csprojAssemblyReference.cache
+C:\Users\dusti\Desktop\tata\Capacitacion\Capacitacion\obj\Debug\netcoreapp3.1\Capacitacion.AssemblyInfoInputs.cache
+C:\Users\dusti\Desktop\tata\Capacitacion\Capacitacion\obj\Debug\netcoreapp3.1\Capacitacion.AssemblyInfo.cs
+C:\Users\dusti\Desktop\tata\Capacitacion\Capacitacion\obj\Debug\netcoreapp3.1\Capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\dusti\Desktop\tata\Capacitacion\Capacitacion\obj\Debug\netcoreapp3.1\Capacitacion.dll
+C:\Users\dusti\Desktop\tata\Capacitacion\Capacitacion\obj\Debug\netcoreapp3.1\Capacitacion.pdb
+C:\Users\dusti\Desktop\tata\Capacitacion\Capacitacion\obj\Debug\netcoreapp3.1\Capacitacion.genruntimeconfig.cache
